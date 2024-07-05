@@ -6,6 +6,8 @@ repo about subcomponents and binding to `this`.
 We'd like to avoid prop drilling to subcomponents by allowing `this` to have access to render `data`. Preact can do this
 with an extra arg to `render`. This arg becomes `this.context` in all components and subcomponents.
 
+[Demonstration video on YouTube](https://youtu.be/3y1-tuk2Z9E)
+
 ## Summary
 
 1. Run `npm run build` (or start).
